@@ -1,6 +1,6 @@
 Installation:
 
-	# Ensure Coreutils is installed for **gls** 
+	# Ensure Coreutils is installed for **gls**
 	brew install coreutils
 	mkdir ~/.dircolors
 	git clone https://github.com/gibbling666/dircolors.git ~/.dircolors
@@ -20,3 +20,5 @@ Setup:
 Notes:
 
 	Please check out solarized dircolors here https://github.com/seebi/dircolors-solarized
+
+	**test**
