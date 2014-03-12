@@ -1,7 +1,8 @@
 Installation:
 
 -Ensure Coreutils is installed for **gls**
-```	brew install coreutils
+```	
+brew install coreutils
 	mkdir ~/.dircolors
 	git clone https://github.com/gibbling666/dircolors.git ~/.dircolors
 ```
