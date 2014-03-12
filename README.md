@@ -20,5 +20,6 @@ Setup:
 	alias ll='ls -al'
 
 Notes:
+
 -Please check out solarized dircolors here https://github.com/seebi/dircolors-solarized
 
